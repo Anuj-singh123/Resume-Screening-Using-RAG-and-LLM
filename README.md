@@ -1,6 +1,6 @@
-# 📄 Resume Screening RAG Pipeline  
+# Resume Screening RAG Pipeline  
 
-## 🌟 Introduction  
+## Introduction  
 
 Hiring a candidate today is like **finding a needle in a haystack**.  
 For a single job posting, thousands of resumes are received.  
@@ -9,7 +9,7 @@ For a single job posting, thousands of resumes are received.
 - Old tools only check for **keywords** like "Python" or "SQL".  
 - But keywords can be misleading.  
 
-👉 Example:  
+Example:  
 - Candidate A: “Built a fraud detection system using TensorFlow.”  
 - Candidate B: “Attended a 2‑day workshop on TensorFlow.”  
 
@@ -22,12 +22,12 @@ It uses **AI (Large Language Models + Retrieval-Augmented Generation)** to **und
 
 ---
 
-## 🧐 What Does This Project Do?  
+## What Does This Project Do?  
 
 Think of this project as your **AI Recruiter Assistant**.  
 
 ### Step 1: Recruiter gives a Job Description  
-👉 Example:  
+Example:  
 “We need a Data Scientist skilled in Python, Machine Learning, SQL, and AWS.”  
 
 ### Step 2: The System Reads All Resumes  
@@ -42,7 +42,7 @@ For each candidate, it shows:
 - ✅ Skills that match the job  
 - ❌ Skills that are missing  
 
-👉 Example Output:  
+Example Output:  
 1. **Tushar Patel (Applicant 202)**  
    - ✅ Python, TensorFlow, Cloud experience  
    - ❌ SQL not found  
@@ -57,7 +57,7 @@ For each candidate, it shows:
 
 ---
 
-## 🔎 Why Not Just Keyword Search?  
+## Why Not Just Keyword Search?  
 
 Because **humans don’t write resumes in one fixed way**.  
 - One candidate might write “ML pipelines with Python.”  
@@ -74,7 +74,7 @@ This way, we get **context-aware, human-like results** instead of blind keyword 
 
 ---
 
-## 🛠 Tech Behind the Scenes  
+## Tech Behind the Scenes  
 
 - **LangChain** → Connects AI with retriever logic  
 - **HuggingFace Embeddings** → Turns resumes into vector form  
@@ -84,7 +84,7 @@ This way, we get **context-aware, human-like results** instead of blind keyword 
 
 ---
 
-## 💡 Real-Life Example  
+## Real-Life Example  
 
 **Job Description:**  
 “Looking for Machine Learning Engineer with strong Python, Deep Learning (TensorFlow/PyTorch), SQL, and Cloud (AWS/GCP).”  
@@ -103,19 +103,19 @@ This way, we get **context-aware, human-like results** instead of blind keyword 
    - Past projects: Sales prediction, data pipelines  
    - **Score: 0.74**  
 
----
 
-## 📊 Features  
 
-✔️ Rank all resumes by relevance  
-✔️ Show matched vs missing skills  
-✔️ Compare candidates side-by-side  
-✔️ Upload your own resume dataset (CSV format)  
-✔️ Chatbot Q&A — Ask: “Who are top 5 for Data Scientist role?”  
+## Features  
 
----
+✔ Rank all resumes by relevance  
+✔ Show matched vs missing skills  
+✔ Compare candidates side-by-side  
+✔ Upload your own resume dataset (CSV format)  
+✔ Chatbot Q&A — Ask: “Who are top 5 for Data Scientist role?”  
 
-## 📈 Why It’s Important  
+
+
+## Why It’s Important  
 
 - Saves **hours of recruiter effort**  
 - Ensures **fair screening** (not just buzzwords)  
@@ -124,7 +124,7 @@ This way, we get **context-aware, human-like results** instead of blind keyword 
 
 ---
 
-## 🚀 Future Scope  
+## Future Scope  
 
 - Visual dashboard: Graphs for skill coverage per candidate  
 - Deployment on Cloud (so HRs can use it online directly)  
@@ -143,11 +143,12 @@ It demonstrates expertise in:
 - Deployment (Streamlit)  
 
 Targeting **Data Scientist / ML Engineer** roles at top companies.
-Mobile Number-6390277170
 
-Email-anujsinghanuj97@gmail.com
+**Mobile Number**-6390277170
 
-Linkdin-[Link Text](https://www.linkedin.com/in/anuj-singh-5882971a9/details/education/)
+**Email**-anujsinghanuj97@gmail.com
+
+**Linkdin**-[Link Text](https://www.linkedin.com/in/anuj-singh-5882971a9/details/education/)
 
 
 
